@@ -1,0 +1,6 @@
+[gcp:vars]
+ansible_user='mahirrudin'
+
+[gcp]
+n1-elastic-corp
+n2-elastic-corp
